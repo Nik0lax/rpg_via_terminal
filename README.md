@@ -32,7 +32,7 @@ Este projeto consiste em um jogo de RPG (Role-Playing Game) implementado inteira
 
 
 ## Como jogar
-### 1. Execute o arquivo principal rpg_via_terminal.py no terminal.
+Execute o arquivo principal rpg_via_terminal.py no terminal.
 
 **Windows**:
 ```
@@ -44,22 +44,20 @@ python rpg_via_terminal.py
 python3 rpg_via_terminal.py
 ```
 
-### 2. Escolha a opção para jogar no menu inicial:
-   
-![image](https://github.com/Nik0lax/rpg_via_terminal/assets/136096951/308c8b45-b169-49f7-8b93-5ec946078d13)
+## Screenshots
 
-### 3. Selecione um personagem:
 
-![image](https://github.com/Nik0lax/rpg_via_terminal/assets/136096951/bd4e6a2b-19e0-421c-9d45-07532b7901f6)
+https://github.com/Nik0lax/rpg_via_terminal/assets/136096951/34f2e945-05c2-4442-a4a7-fb84d2fbfb8e
 
-### 4. Curta a História:
 
-![image](https://github.com/Nik0lax/rpg_via_terminal/assets/136096951/7f66f67b-995d-4cd4-826d-f5be5372edca)
-
-### 5. Enfrente monstros nas batalhas da masmorra:
-
-![image](https://github.com/Nik0lax/rpg_via_terminal/assets/136096951/b72e4616-7c7b-49d3-b66b-316893a1166d)
-
+![image 3](https://github.com/Nik0lax/rpg_via_terminal/assets/136096951/80cf5698-a3fb-4f60-b030-c0be5e704230)
+![image 2](https://github.com/Nik0lax/rpg_via_terminal/assets/136096951/1d83e5b6-802e-4ee2-87ca-41934e828002)
+![image 4](https://github.com/Nik0lax/rpg_via_terminal/assets/136096951/71ab54d6-4973-4ef1-9a19-c356132600ce)
+![image 5](https://github.com/Nik0lax/rpg_via_terminal/assets/136096951/f1fe4b73-ec5e-4dd0-ae68-8725d6f34e8d)
+![image 6](https://github.com/Nik0lax/rpg_via_terminal/assets/136096951/50437b1e-c3c5-4cfa-99c1-60298cb1fced)
+![image 7](https://github.com/Nik0lax/rpg_via_terminal/assets/136096951/b06f8b73-8fcc-40a8-8a4f-33a85bd65854)
+![image 8](https://github.com/Nik0lax/rpg_via_terminal/assets/136096951/0277a07c-bc7b-423c-bc2a-8748b51646a1)
+![image 9](https://github.com/Nik0lax/rpg_via_terminal/assets/136096951/426d3191-9e12-4e88-aff8-ad9b456bf43e)
 
 
 ## Autor
