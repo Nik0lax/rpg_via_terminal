@@ -1,4 +1,4 @@
-# RPG via Terminal (Python)
+# ⚔ RPG via Terminal (Python)
 
 Este projeto consiste em um jogo de RPG (Role-Playing Game) implementado inteiramente no terminal usando Python. O jogo apresenta uma narrativa envolvente, seleção de personagem, batalhas por turnos e uma masmorra com vários níveis, cada um contendo um monstro único. O objetivo do jogador é enfrentar esses monstros, superar desafios e alcançar a sala do tesouro no final da masmorra.
 
